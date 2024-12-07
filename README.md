@@ -1,5 +1,5 @@
 # 💫 About Me:
-CE student at IKIU<br>Embedded software developer
+CE student at IKIU<br>Embedded software developer<br>Hardware and Software reverse engineer
 
 
 ## 🌐 Socials:
